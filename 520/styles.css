@@ -1,8 +1,0 @@
-body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
-body::after {
-    content: "FLAG{gh3_gh3_gh3}";
-    color: white;
-    display: block;
-    position: absolute;
-    bottom: -999px;
-}
