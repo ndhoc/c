@@ -5,7 +5,6 @@ A personal repository to track my progress and practice in solving algorithm pro
 ## 📁 Directory Structure
 
 ```
-.
 🔼🗄 300baicode/         # Problems solved from 300bàicode.vn
 🔼🗄 codeforces/         # Codeforces solutions 
 🔼🗄 leetcode/           # LeetCode problems 
