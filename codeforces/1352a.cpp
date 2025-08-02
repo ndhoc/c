@@ -14,7 +14,7 @@ int main() {
 		string s;cin>>s;
 		int k=s.size();
 		vector<int> a;
-		for(int i=0;i<s.size();++i)
+		for(int i=0;i<k;++i)
 			if(s[i]!='0')
 				a.pb((s[i]-'0')*pow(10,k-i-1));
 		cout<<a.size()<<el;
