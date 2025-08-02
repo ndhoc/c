@@ -2,16 +2,6 @@
 
 A personal repository to track my progress and practice in solving algorithm problems from various competitive programming platforms such as Codeforces, LeetCode, 300baicode, and UTEOJ.
 
-## 📁 Directory Structure
-
-```
-🔼🗄 300baicode/         # Problems solved from 300bàicode.vn
-🔼🗄 codeforces/         # Codeforces solutions 
-🔼🗄 leetcode/           # LeetCode problems 
-🔼🗄 uteoj/              # UTE Online Judge problems
-🔼📄 README.md          # You're here!
-```
-
 ## ✨ Features
 
 - Organized by platform for easy navigation
