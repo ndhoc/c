@@ -12,10 +12,11 @@ using namespace std;
 
 int main() {
     op();
-    int n; cin>>n;
+    ll n; cin>>n;
     //(x*(x+1))/2<=n
     //x^2+x<=2n
     //x^2+x-2n<=0
-    cout<<(-1+ll(sqrt(1+8*n)))/2;
+    ll k = sqrt(1+4*2*n);
+    cout << (-1+k)/2;
     return 0;
 }
