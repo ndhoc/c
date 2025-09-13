@@ -1,22 +1,15 @@
-//Liem giai
-
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
+int dp[10005];
 int main(){
-    int n; cin >> n;
-    vector<int> f(n + 1), l(n + 1), h(n + 1);
-
-    for(int i = 1; i <= n; ++i) cin >> l[i];
-    for(int i = 1; i <= n; ++i) cin >> h[i];
-	
-	f[0] = 0;
-	for(int i = 1; i <= n; ++i){
-		if (i == 1){f[i] = f[i - 1] + l[i]; continue;}
-		f[i] = max(h[i] + f[i-2],l[i] + f[i-1]);
-	}
-	
-	cout << f[n];
-
+    int n,l[10005],h[10005]; cin>>n;
+    for(int i=1; i<=n; ++i) cin>>l[i];
+    for(int i=1; i<=n; ++i) cin>>h[i];
+    dp[1] = l[1];
+    for(int i=2; i<=n; ++i){
+        dp[i]=max(h[i]+dp[i-2], l[i]+dp[i-1]);
+    }
+    cout<<dp[n];
     return 0;
 }
