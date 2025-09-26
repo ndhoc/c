@@ -9,14 +9,14 @@ using namespace std;
 #define pb push_back
 #define el "\n"
 #define fast ios_base::sync_with_stdio(0);cin.tie(0);
-const int maxN = 1e5+1;
+const int LIM = 1e5+1;
 int main() {
     fast;
     int n,k; cin>>n>>k;
-    int a[maxN];
+    int a[LIM];
     for(int i=0; i<n; ++i) cin>>a[i];
     
-    ll prefixSum[maxN];
+    ll prefixSum[LIM];
     prefixSum[0]=0;
     for(int i=1; i<=n; ++i){
         prefixSum[i] = prefixSum[i-1]+a[i-1];
