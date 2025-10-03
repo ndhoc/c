@@ -11,6 +11,8 @@
             "#define db double",
             "#define vt vector",
             "#define pii pair<int,int>",
+            "#define fi first",
+            "#define se second",
             "#define pb push_back",
             "#define el \"\\\\n\"",
             "#define op() ios_base::sync_with_stdio(0);cin.tie(0);",
