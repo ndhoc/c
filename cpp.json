@@ -10,6 +10,8 @@
             "#define ull unsigned long long",
             "#define db double",
             "#define vt vector",
+            "#define all(x) x.begin(), x.end()",
+            "#define len(x) (int)x.size()",
             "#define pii pair<int,int>",
             "#define fi first",
             "#define se second",
