@@ -47,11 +47,7 @@ void sol(){
         sum += a[i];
     }
     if(sum > s) no();
-    else{
-        s -= sum;
-        if(s%x) no();
-        else yes();
-    }
+    else cout << ((s-sum)%x ? "NO\n" : "YES\n");
 }
 
 int main() {
