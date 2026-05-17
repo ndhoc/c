@@ -1,3 +1,3 @@
 # Solutions
 
-My solution in many oj 
+My solution in many oj lol
