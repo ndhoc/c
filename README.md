@@ -15,10 +15,10 @@ Welcome to my competitive programming repository! This repository contains my so
 | Marisa OJ | 43 |
 | CodingBat | 13 |
 | LQDOJ | 13 |
-| CSES | 7 |
+| CSES | 8 |
 | VNOI | 7 |
 | Luogu | 4 |
-| **Total** | **474** |
+| **Total** | **475** |
 <!-- STATS_END -->
 
 *(Stats automatically updated on push)*
