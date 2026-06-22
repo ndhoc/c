@@ -16,9 +16,9 @@ Welcome to my competitive programming repository! This repository contains my so
 | CodingBat | 13 |
 | LQDOJ | 13 |
 | VNOI | 7 |
-| CSES | 4 |
+| CSES | 5 |
 | Luogu | 4 |
-| **Total** | **470** |
+| **Total** | **471** |
 <!-- STATS_END -->
 
 *(Stats automatically updated on push)*
