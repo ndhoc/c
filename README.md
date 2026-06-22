@@ -1,4 +1,4 @@
-# 🏆 Competitive Programming Solutions
+# CP Solutions
 
 Welcome to my competitive programming repository! This repository contains my solutions to various problems from different Online Judges (OJs).
 
@@ -36,5 +36,3 @@ Welcome to my competitive programming repository! This repository contains my so
 - `marisaoj/`: Marisa OJ solutions.
 - `uteoj/`: UTE OJ solutions.
 - `vnoi/`: VNOI (SPOJ) solutions.
-- `lib_cp/`: My Competitive Programming Library.
-- `gen_test/`: Local stress testing setup.
