@@ -17,7 +17,6 @@ int main(){
         int64_t x; cin >> x;
         cur = max(x, cur + x);
         ans = max(ans, cur);
-
     }
 
     cout << ans;
