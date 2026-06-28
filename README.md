@@ -8,17 +8,17 @@ Welcome to my competitive programming repository! This repository contains my so
 | Platform | Solved |
 | :--- | :---: |
 | Codeforces | 116 |
-| LeetCode | 83 |
+| LeetCode | 84 |
 | UTE OJ | 83 |
 | LuyenCode | 61 |
 | 300 Bài Code Thiếu Nhi | 52 |
 | Marisa OJ | 44 |
-| LQDOJ | 17 |
+| LQDOJ | 19 |
 | CodingBat | 13 |
 | CSES | 8 |
 | VNOI | 7 |
 | Luogu | 4 |
-| **Total** | **488** |
+| **Total** | **491** |
 <!-- STATS_END -->
 
 *(Stats automatically updated on push)*
