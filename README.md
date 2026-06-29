@@ -13,12 +13,12 @@ Welcome to my competitive programming repository! This repository contains my so
 | LuyenCode | 61 |
 | 300 Bài Code Thiếu Nhi | 52 |
 | Marisa OJ | 44 |
-| LQDOJ | 19 |
+| LQDOJ | 20 |
 | CodingBat | 13 |
 | CSES | 8 |
 | VNOI | 7 |
 | Luogu | 4 |
-| **Total** | **491** |
+| **Total** | **492** |
 <!-- STATS_END -->
 
 *(Stats automatically updated on push)*
