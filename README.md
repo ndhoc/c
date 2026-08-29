@@ -8,7 +8,7 @@ Welcome to my competitive programming repository! This repository contains my so
 | Platform | Solved |
 | :--- | :---: |
 | Codeforces | 120 |
-| LeetCode | 90 |
+| LeetCode | 91 |
 | UTE OJ | 83 |
 | LuyenCode | 61 |
 | 300 Bài Code Thiếu Nhi | 52 |
@@ -18,7 +18,7 @@ Welcome to my competitive programming repository! This repository contains my so
 | CSES | 8 |
 | VNOI | 7 |
 | Luogu | 4 |
-| **Total** | **505** |
+| **Total** | **506** |
 <!-- STATS_END -->
 
 *(Stats automatically updated on push)*
