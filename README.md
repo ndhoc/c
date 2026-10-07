@@ -7,7 +7,7 @@ Welcome to my competitive programming repository! This repository contains my so
 <!-- STATS_START -->
 | Platform | Solved |
 | :--- | :---: |
-| Codeforces | 120 |
+| Codeforces | 121 |
 | LeetCode | 103 |
 | UTE OJ | 83 |
 | LuyenCode | 61 |
@@ -18,7 +18,7 @@ Welcome to my competitive programming repository! This repository contains my so
 | CSES | 8 |
 | VNOI | 7 |
 | Luogu | 4 |
-| **Total** | **518** |
+| **Total** | **519** |
 <!-- STATS_END -->
 
 *(Stats automatically updated on push)*
